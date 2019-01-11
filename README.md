@@ -3,9 +3,11 @@
 # Usage
 
 function clone_pdf_without_skew(
+
     :param filename (str): the location & name of your pdf file
     :param end_tag (str): appended to the end of new pdf file
-    :param skew_degrees (float): ¯\_(?)_/¯
+    :param skew_degrees (float):  Â¯\_(ãƒ„)_/Â¯
+
 ) -> :return None: the modified file is saved, not returned
 
 # Roadmap
